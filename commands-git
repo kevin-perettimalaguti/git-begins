@@ -9,3 +9,6 @@ git push origin <nom_de_la_branche>
 # La commande pour pull:
 git pull origin <nom_de_la_branche>
 
+# Les commande pour crée un branche et celle pour switcher:
+git branch "nom_de_la_branche"
+git checkout "nom_de_la_branche"
